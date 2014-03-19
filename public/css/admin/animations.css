@@ -1,0 +1,21 @@
+/* CSS Document */
+
+a, aside, aside nav{
+	-webkit-transition: all 200ms ease-in-out;
+	-moz-transition: all 200ms ease-in-out;
+	-o-transition: all 200ms ease-in-out;
+	transition: all 200ms ease-in-out;
+}
+
+aside nav a{
+	-webkit-transition: all 200ms ease-in-out;
+	-moz-transition: all 200ms ease-in-out;
+	-o-transition: all 200ms ease-in-out;
+	transition: all 200ms ease-in-out;
+}
+
+aside nav a span{
+	transition: opacity 5s ease-in-out;
+	-moz-transition: opacity 5s ease-in-out;
+	-webkit-transition: opacity 5s ease-in-out;
+}
