@@ -16,8 +16,7 @@
 	});
 
 	$router->get('/gebruikers', function () {
-		$gebruikers = new Pikachu\View('admin/gebruikers.php');
-		$gebruikers->render();
+		new Controller("GebruikersController", "IndexAction");
 	});
 
 	$router->run();

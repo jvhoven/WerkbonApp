@@ -17,7 +17,7 @@
     <body>
     	<aside>
     		<section class="overlay-block">
-        		<span><i class="fa fa-bars"></i>Navigation</span>
+        		<span><i class="fa fa-bars"></i>Navigatie</span>
        		</section>
     		<nav>
 	        	<a href="" class="active"><i class="fa fa-home"></i><span>Dashboard</span></a>

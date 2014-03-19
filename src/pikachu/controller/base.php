@@ -5,7 +5,6 @@
 	class Base{
 
 		public function __construct(){
-			echo 'hallo';
 		}
 
 		public function setModel($model = false){
